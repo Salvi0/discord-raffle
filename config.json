@@ -1,7 +1,8 @@
 {
-    "prefix": "!",
+    "prefix": "#",
     "admins": [
-        "Family Members"
+        "Capo-amministratore",
+        "Supervisore-amministratore"
     ],
     "color": "8A1E22"
 }
